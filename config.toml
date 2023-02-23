@@ -1,0 +1,4 @@
+baseURL = 'https://genkovteodor.github.io/static-hugo-blog/'
+languageCode = 'en-us'
+title = 'Hugo with Layer Zero'
+theme = 'nostyleplease'
