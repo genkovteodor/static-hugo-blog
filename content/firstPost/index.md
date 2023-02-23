@@ -14,4 +14,3 @@ In this first post I will also include an image as seen below:
 
 ![coolspaceimage](cool-space-image.jpeg)
 
-[Pentesting]({{< relref "pentesting/index.md" >}})
